@@ -781,19 +781,19 @@ body{position:relative;}
     display: none !important;
     position: absolute;
     left: 50px;
-    width: 180px;
+    width: 200px;
 }
 .oo-minimized-lpanel #oo-left-panel .panel-list > li.oo-has-menu:hover > ul.oo-sub-menu,
 .oo-minimized-lpanel #oo-left-panel .panel-list > li.oo-has-menu:focus > ul.oo-sub-menu {
     display: block !important;
     border-right: 1px solid #efefef;
-	width: 180px;
+	width: 200px;
 	left: 50px;
 }
 .oo-minimized-lpanel #oo-left-panel .panel-list > li.oo-has-menu > ul.oo-sub-menu ul.oo-sub-menu {
     display: none !important;
     position: absolute;
-    width: 180px;
+    width: 200px;
     left: 0;
 }
 .oo-minimized-lpanel #oo-left-panel .panel-list > li.oo-has-menu:hover > ul.oo-sub-menu ul.oo-sub-menu,
