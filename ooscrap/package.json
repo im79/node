@@ -1,0 +1,15 @@
+{
+  "name": "ooscrap",
+  "version": "1.0.1",
+  "description": "Scrap it",
+  "main": "none",
+  "dependencies": {
+    "request": "",
+    "cheerio": ""
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "author": "Ilya M",
+  "license": "oo"
+}
